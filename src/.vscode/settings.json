@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "entitykey_persist.h": "c",
+        "studio.h": "c",
+        "salesanalysis_ui.h": "c"
+    }
+}
