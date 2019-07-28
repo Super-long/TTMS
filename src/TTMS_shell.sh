@@ -2,7 +2,7 @@
 
 #这个脚本的作用是更新TTMS中的数据文件
 
-#2019-6-30号完成
+#2019-6-30号完成 -lizhaolong
 
 PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/sbin:/usr/sbin
 
